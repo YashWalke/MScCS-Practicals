@@ -83,3 +83,7 @@ This repository houses the practicals executed by the students of batch 2021-202
     </tr>
 </table>
 
+
+### Mini project
+
+The mini project can be found in the [mini_project](./mini_project) subdirectory.
