@@ -49,3 +49,8 @@ This repository houses the practicals executed by the students of batch 2021-202
 2. Some practicals generate output files. These can be found in the [output_files](./output_files/) subdirectory.
 3. The data sets used in certain practicals can be found in the [data_sets](./data_sets) subdirectory.
 
+
+
+### Mini project
+
+The mini project can be found in the [mini_project](./mini_project) subdirectory.
