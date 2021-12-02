@@ -48,5 +48,10 @@ This repository houses the practicals executed by the students of batch 2021-202
 		<td><a href = "subset_sum.py">subset_sum.py</a></td>
 	</tr>
 </table>
-
 **<u>Note:</u>** Output Screenshots can be found in the [screenshots](./screenshots) subdirectory.
+
+
+
+## <center> Mini Project </center>
+
+The mini project can be found in the [mini_project](./mini_project) subdirectory.
