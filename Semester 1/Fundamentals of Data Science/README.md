@@ -41,6 +41,11 @@ This repository houses the practicals executed by the students of batch 2021-202
 		<td><a href = "Practical 5.ipynb">Practical 5.ipynb</a></td>
         <td> <a href = "practicals_pdf/Practical 5.pdf">Practical 5.pdf</a></td>
     </tr>
+    <tr>
+		<td> Practical 6 </td>
+		<td><a href = "Practical 6.ipynb">Practical 6.ipynb</a></td>
+        <td> <a href = "practicals_pdf/Practical 6.pdf">Practical 6.pdf</a></td>
+    </tr>
 </table>
 
 **<u>Note:</u>** 
