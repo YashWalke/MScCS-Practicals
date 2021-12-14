@@ -1,4 +1,4 @@
-def partition(start_index:int, end_index:int, input_list : list[int]) -> int:
+def partition(start_index, end_index, input_list):
     
     pivot_index = start_index
     pivot_value = input_list[pivot_index]
@@ -17,7 +17,7 @@ def partition(start_index:int, end_index:int, input_list : list[int]) -> int:
     
     return end_index
 
-def quicksort(start_index : int, end_index : int, input_list : list[int]):
+def quicksort(start_index, end_index, input_list):
     
     if start_index < end_index:
         p = partition(start_index, end_index, input_list)

@@ -1,6 +1,6 @@
 from math import inf
 
-def max_crossing_sublist(input_list : list[int], low : int, mid : int, high : int) -> tuple[int]:
+def max_crossing_sublist(input_list, low, mid, high):
     left_sum = -1 * inf
     right_sum = -1 * inf
     sum = 0
@@ -23,7 +23,7 @@ def max_crossing_sublist(input_list : list[int], low : int, mid : int, high : in
     return max_left, max_right, left_sum + right_sum
 
 
-def max_subarray_problem(input_list : list[int], low : int, high : int) -> tuple[int]:
+def max_subarray_problem(input_list, low, high):
     if low == high:
         return low, high, input_list[low]
     else:
