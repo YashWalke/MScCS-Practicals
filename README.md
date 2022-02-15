@@ -35,3 +35,29 @@ This repository houses the practicals executed by the students of course Masters
     </tr>
 </table>
 
+
+
+### Semester 2
+
+<table>
+    <tr>
+    	<th> Subject Name </th>
+    	<th> Folder link </th>
+    </tr>
+    <tr>
+    	<td>Design and Implementation of Modern Compilers</td>
+        <td><a href = "./Semester 2/Design and Implementation of Modern Compilers">Design and Implementation of Modern Compilers</a></td>
+    </tr>
+    <tr>
+    	<td>Advanced Embedded Systems</td>
+        <td><a href = "./Semester 2/Advanced Embedded Systems">Advanced Embedded Systems</a></td>
+    </tr>
+    <tr>
+    	<td>Social Network Analysis</td>
+        <td><a href = "./Semester 2/Social Network Analysis">Social Network Analysis</a></td>
+    </tr>
+    <tr>
+    	<td>Business Intelligence and Big Data Analytics</td>
+        <td><a href = "./Semester 2/Business Intelligence and Big Data Analytics">Business Intelligence and Big Data Analytics</a></td>
+    </tr>
+</table>
