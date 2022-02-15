@@ -46,7 +46,7 @@ This repository houses the practicals executed by the students of course Masters
     </tr>
     <tr>
     	<td>Design and Implementation of Modern Compilers</td>
-        <td><a href = "./Semester 2/Design and Implementation of Modern Compilers">Design and Implementation of Modern Compilers</a></td>
+        <td><a href = "./Semester 2/Design and implementation of Modern Compilers">Design and Implementation of Modern Compilers</a></td>
     </tr>
     <tr>
     	<td>Advanced Embedded Systems</td>
