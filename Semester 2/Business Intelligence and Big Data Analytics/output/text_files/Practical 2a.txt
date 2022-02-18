@@ -1,0 +1,31 @@
+> # install.packages(c("tm", "devtools", "ggplot2", "textreuse"))
+> require("tm")
+> 
+> my.corpus <- Corpus(DirSource("C:/Temp/input_files/1"))
+> my_corpus <- tm_map(my.corpus, removeWords, stopwords("english"))
+> my.tdm <- TermDocumentMatrix(my.corpus)
+> 
+> my.df <- as.data.frame(inspect(my.tdm))
+<<TermDocumentMatrix (terms: 9, documents: 3)>>
+Non-/sparse entries: 14/13
+Sparsity           : 48%
+Maximal term length: 10
+Weighting          : term frequency (tf)
+Sample             :
+            Docs
+Terms        file1.txt file2.txt file3.txt
+  afternoon.         0         1         0
+  are                1         0         1
+  fine.              0         1         0
+  good               1         1         1
+  hello,             0         0         1
+  how                1         0         1
+  morning            0         0         1
+  morning.           1         0         0
+  you?               1         0         1
+> my.df.scale <- scale(my.df)
+> d <- dist(my.df.scale)
+> fit <- hclust(d, method = "ward.D")
+> 
+> plot(fit)
+> 

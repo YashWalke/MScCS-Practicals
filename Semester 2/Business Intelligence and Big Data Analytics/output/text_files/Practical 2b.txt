@@ -1,0 +1,47 @@
+> require("tm")
+> 
+> my.corpus <- Corpus(DirSource("C:/Temp/input_files/2"))
+> my.corpus <- tm_map(my.corpus, removeWords, stopwords("english"))
+> my.tdm <- TermDocumentMatrix(my.corpus)
+> inspect(my.tdm)
+<<TermDocumentMatrix (terms: 54, documents: 3)>>
+Non-/sparse entries: 161/1
+Sparsity           : 1%
+Maximal term length: 13
+Weighting          : term frequency (tf)
+Sample             :
+            Docs
+Terms        file1.txt file2.txt file3.txt
+  adipiscing         1         1         1
+  aliqua.            1         1         1
+  aliquip            1         1         1
+  amet,              1         1         1
+  anim               1         1         1
+  aute               1         1         1
+  cillum             1         1         1
+  commodo            1         1         1
+  dolor              2         2         2
+  dolore             2         2         2
+> my.df <- as.data.frame(inspect(my.tdm))
+<<TermDocumentMatrix (terms: 54, documents: 3)>>
+Non-/sparse entries: 161/1
+Sparsity           : 1%
+Maximal term length: 13
+Weighting          : term frequency (tf)
+Sample             :
+            Docs
+Terms        file1.txt file2.txt file3.txt
+  adipiscing         1         1         1
+  aliqua.            1         1         1
+  aliquip            1         1         1
+  amet,              1         1         1
+  anim               1         1         1
+  aute               1         1         1
+  cillum             1         1         1
+  commodo            1         1         1
+  dolor              2         2         2
+  dolore             2         2         2
+> barplot(as.matrix(my.tdm))
+> 
+> barplot(as.matrix(my.tdm), col = c("#00eb07", "#57ef87", "#ed791a", "#5e5fff", "#1cf1c6", "#5e035b"))
+> 
