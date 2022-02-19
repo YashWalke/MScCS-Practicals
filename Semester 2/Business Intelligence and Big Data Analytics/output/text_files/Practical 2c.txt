@@ -1,0 +1,34 @@
+> library("textreuse")
+> 
+> minhash <- minhash_generator(200, seed = 235)
+> ats <- TextReuseCorpus(dir = "C:/Temp/input_files/2", tokenizer = tokenize_ngrams, n = 5, minhash_func = minhash)
+Loading, tokenizing, and hashing 3 documents.
+  |===============================================| 100%
+Warning messages:
+1: In readLines(file) :
+  incomplete final line found on 'C:/Temp/input_files/2/file1.txt'
+2: In readLines(file) :
+  incomplete final line found on 'C:/Temp/input_files/2/file2.txt'
+3: In readLines(file) :
+  incomplete final line found on 'C:/Temp/input_files/2/file3.txt'
+> 
+> buckets <- lsh(ats, bands = 50, progress = interactive())
+Calculating LSH buckets
+  |===============================================| 100%
+Warning message:
+`gather_()` was deprecated in tidyr 1.2.0.
+Please use `gather()` instead.
+This warning is displayed once every 8 hours.
+Call `lifecycle::last_lifecycle_warnings()` to see where this warning was generated. 
+> candidates <- lsh_candidates(buckets)
+> scores <- lsh_compare(candidates, ats, jaccard_similarity, progress = F)
+> scores
+# A tibble: 3 x 3
+  a     b     score
+  <chr> <chr> <dbl>
+1 file1 file2 0.940
+2 file1 file3 0.857
+3 file2 file3 0.806
+> 
+> barplot(as.matrix(scores), col = c("#00eb07", "#57ef87", "#ed791a", "#5e5fff", "#1cf1c6", "#5e035b"))
+> 
