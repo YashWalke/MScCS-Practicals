@@ -1,0 +1,9 @@
+PS C:\Users\YASH\Downloads> javac -Xlint KMoments.java
+PS C:\Users\YASH\Downloads> java KMoments
+Given stream is:
+a  b  c  b  d  a  c  d  a  b  d  c  a  a  b
+
+
+Zeroth moment:                  4
+First Moment:                   15
+Second Moment:                  59
