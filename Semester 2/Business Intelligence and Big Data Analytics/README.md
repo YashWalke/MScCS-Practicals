@@ -38,3 +38,7 @@ This repository houses the practicals executed by the students of batch 2021-202
         </td>
     </tr>
 </table>
+
+**<u>Note:</u>**
++ The order presented in this repository will **not** match with the index of the journal. This discrepancy arises due to the fact that the practicals were implemented **out of order.**
++ This repository stores practicals based on their **implementation date**.
