@@ -37,6 +37,11 @@ This repository houses the practicals executed by the students of batch 2021-202
             </ul>
         </td>
     </tr>
+    <tr>
+        <td>3</td>
+        <td><a href = "KMoments.java">KMoments.java</a></td>
+        <td><a href = "output/screenshots/Practical 3">Output Screenshots</a> and <a href = "output/text_files/Practical 3.txt">Text File</a></td>
+    </tr>
 </table>
 
 **<u>Note:</u>**
