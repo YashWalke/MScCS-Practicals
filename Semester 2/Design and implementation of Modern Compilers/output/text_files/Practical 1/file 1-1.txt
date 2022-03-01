@@ -1,0 +1,25 @@
+C:\Temp>python NDFA.py
+Enter state set>        ABC
+Enter input symbol set> xy
+Enter the initial state>        A
+Enter the final state(s)>       C
+Enter the number of rules you want to add>      4
+Enter rule 1>   A-xB
+Enter rule 2>   A-yB
+Enter rule 3>   B-xC
+Enter rule 4>   B-yC
+
+
+Set of states are >  {'A', 'C', 'B'}
+Input symbols are >  {'x', 'y'}
+Transitions are >
+A {'x': 'B', 'y': 'B'}
+B {'x': 'C', 'y': 'C'}
+Initial state >  A
+Final states >  {'C'}
+
+
+Transition table is >
+States          x               y
+A               B               B
+B               C               C
