@@ -7,3 +7,18 @@
 ### Introduction
 
 This repository houses the practicals executed by the students of batch 2021-2022 of the course Masters of Science(Computer Science) Part I for the subject **"Design and Implementation of Modern Compilers"** (Semester 2).
+
+
+### Practical List
+<table>
+    <tr>
+        <th>Practical No.</th>
+        <th>Practical Code</th>
+        <th>Output(s)</th>
+    <tr>
+    <tr>
+        <td>1</td>
+        <td><a href = "src/NDFA.py">NDFA.py</a></td>
+        <td><a href = "output/screenshots/Practical 1">screenshots</a> and <a href = "output/text_files/Practical 1">Text files</a></td>
+    </tr>
+</table>
