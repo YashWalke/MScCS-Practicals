@@ -1,3 +1,5 @@
+package src;
+
 /*
 	* A Java program to calculate 
 	* Oth, 1st and 2nd moment.
