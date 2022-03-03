@@ -17,16 +17,16 @@ This repository houses the practicals executed by the students of batch 2021-202
     <tr>
     <tr>
         <td>1</td>
-        <td><a href = "Practical 1.R">Practical 1.R</a></td>
+        <td><a href = "src/Practical 1.R">Practical 1.R</a></td>
         <td><a href = "output/screenshots/Practical 1">Output Screenshots</a> and <a href = "output/text_files/Practical 1.txt">Text File</a></td>
     </tr>
     <tr>
         <td>2</td>
         <td>
             <ul>
-                <li><a href = "Practical 2a.R">Practical 2a.R</a></li>
-                <li><a href = "Practical 2b.R">Practical 2b.R</a></li>
-                <li><a href = "Practical 2c.R">Practical 2c.R</a></li>
+                <li><a href = "src/Practical 2a.R">Practical 2a.R</a></li>
+                <li><a href = "src/Practical 2b.R">Practical 2b.R</a></li>
+                <li><a href = "src/Practical 2c.R">Practical 2c.R</a></li>
             </ul>
         </td>
         <td>
@@ -39,8 +39,13 @@ This repository houses the practicals executed by the students of batch 2021-202
     </tr>
     <tr>
         <td>3</td>
-        <td><a href = "KMoments.java">KMoments.java</a></td>
+        <td><a href = "src/KMoments.java">KMoments.java</a></td>
         <td><a href = "output/screenshots/Practical 3">Output Screenshots</a> and <a href = "output/text_files/Practical 3.txt">Text File</a></td>
+    </tr>
+    <tr>
+        <td>4</td>
+        <td><a href = "src/AMSA.java">AMSA.java</a></td>
+        <td><a href = "output/screenshots/Practical 4">Output Screenshots</a> and <a href = "output/text_files/Practical 4.txt">Text File</a></td>
     </tr>
 </table>
 
