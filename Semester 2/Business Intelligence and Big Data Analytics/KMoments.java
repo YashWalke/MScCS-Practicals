@@ -15,8 +15,8 @@
 			of each elements in said ArrayList.
 */
 
-import java.io.*;
-import java.util.*;
+import java.util.Arrays;
+import java.util.ArrayList;
 
 class KMoments
 {
