@@ -1,0 +1,30 @@
+# 2022-03-03
+---
+## Changes
+
+### Additions
++ Business Intelligence and Big Data Analytics Practical 4 with output.
+
+### Deletions
+None
+
+### Updations
++ Move Business Intelligence and Big Data Analytics Practical sources to the src/ folder.
++ Rename `CHANGELOG.md` to `CHANGELOG`.
+
+
+
+
+# 2022-03-02
+---
+## Changes
+
+### Additions
++ Social Network Analysis Practical 3 with output.
++ Add `CHANGELOG.md`.
+
+### Deletions
+None
+
+### Updations
++ Move Social Network Analysis/output/Practical 1 to Social Network Analysis/output/screenshots/Practical 1
