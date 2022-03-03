@@ -1,0 +1,8 @@
+PS C:\Users\YASH\Documents\Practicals\MScCS-Practicals>  c:; cd 'c:\Users\YASH\Documents\Practicals\MScCS-Practicals'; & 'C:\Program Files\Eclipse Adoptium\jdk-17.0.1.12-hotspot\bin\java.exe' '--enable-preview' '-XX:+ShowCodeDetailsInExceptionMessages' '-cp' 'C:\Users\YASH\AppData\Roaming\VSCodium\User\workspaceStorage\f81ec580a0afeca2d88db0e979a24511\redhat.java\jdt_ws\MScCS-Practicals_99f35025\bin' 'AMSA'
+c : 3
+d : 2
+a : 2
+Expected value for c : 75
+Expected value for d : 45
+Expected value for a : 45
+Approximate Second Moment value = 55
