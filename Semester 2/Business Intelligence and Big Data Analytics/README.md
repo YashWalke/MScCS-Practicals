@@ -47,8 +47,44 @@ This repository houses the practicals executed by the students of batch 2021-202
         <td><a href = "src/AMSA.java">AMSA.java</a></td>
         <td><a href = "output/screenshots/Practical 4">Output Screenshots</a> and <a href = "output/text_files/Practical 4.txt">Text File</a></td>
     </tr>
+    <tr>
+        <td>5</td>
+        <td><a href = "src/Practical 5.ows">Practical 5.ows</a></td>
+        <td>None</td>
+    </tr>
+    <tr>
+        <td>6</td>
+        <td><a href = "src/Practical 6.ows">Practical 6.ows</a></td>
+        <td>None</td>
+    </tr>
+    <tr>
+        <td>7</td>
+        <td><a href = "src/Practical 7.ows">Practical 7.ows</a></td>
+        <td>None</td>
+    </tr>
+    <tr>
+        <td>8</td>
+        <td><a href = "src/Practical 8.ows">Practical 8.ows</a></td>
+        <td>None</td>
+    </tr>
+    <tr>
+        <td>9</td>
+        <td><a href = "src/Practical 9.ows">Practical 9.ows</a></td>
+        <td>None</td>
+    </tr>
+    <tr>
+        <td>10</td>
+        <td><a href = "src/Practical 10.ows">Practical 10.ows</a></td>
+        <td>None</td>
+    </tr>
+    <tr>
+        <td>11</td>
+        <td><a href = "src/Practical 11.ows">Practical 11.ows</a></td>
+        <td>None</td>
+    </tr>
 </table>
 
 **<u>Note:</u>**
 + The order presented in this repository will **not** match with the index of the journal. This discrepancy arises due to the fact that the practicals were implemented **out of order.**
 + This repository stores practicals based on their **implementation date**.
++ Procedure for performing Practicals 5 through 11 can be found [here](extras/procedures/Orange Practicals.pdf)
