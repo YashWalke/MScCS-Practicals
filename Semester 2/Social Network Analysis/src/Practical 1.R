@@ -3,11 +3,11 @@ library(igraph)
 u_graph <- graph.formula(A - B, A - C, A - D, B - C, B - F, C - D, C - E, C - F, D - E, E - F, F - G, G - H)
 d_graph <- graph.formula(A ++ B, A ++ D, A -+ C, B -+ C, B -+ E, B -+ F, C -+ D, C -+ F, D -+ E)
 
-e_count(u_graph)
-e_count(d_graph)
+ecount(d_graph)
+ecount(d_graph)
 
-v_count(u_graph)
-v_count(d_graph)
+vcount(u_graph)
+vcount(d_graph)
 
 E(u_graph)
 E(d_graph)
