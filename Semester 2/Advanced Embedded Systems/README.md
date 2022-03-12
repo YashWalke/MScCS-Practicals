@@ -16,6 +16,18 @@ This repository houses the practicals executed by the students of batch 2021-202
     </tr>
     <tr>
         <td>1</td>
-        <td><a href = "src/Practical 1.uno">Practical 1.uno</a></td>
+        <td><a href = "src/Practical 1.ino">Practical 1</a></td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td><a href = "src/Practical 2.ino">Practical 2</a></td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td><a href = "src/Practical 3.ino">Practical 3</a></td>
+    </tr>
+    <tr>
+        <td>4</td>
+        <td><a href = "src/Practical 4.ino">Practical 4</a></td>
     </tr>
 </table>
