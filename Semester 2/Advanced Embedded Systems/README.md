@@ -12,7 +12,7 @@ This repository houses the practicals executed by the students of batch 2021-202
 <table>
     <tr>
         <th>Practical No.</th>
-        <th>Arduino Source Code (.uno) file</th>
+        <th>Arduino Source Code (.ino) file</th>
     </tr>
     <tr>
         <td>1</td>
