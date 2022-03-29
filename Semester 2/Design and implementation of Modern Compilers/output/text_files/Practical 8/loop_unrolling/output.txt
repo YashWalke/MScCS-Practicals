@@ -1,0 +1,4 @@
+PS C:\Temp> python loop_unrolling.py
+Time to run 1st loop > 8113
+Time to run 2nd loop > 2056
+PS C:\Temp>

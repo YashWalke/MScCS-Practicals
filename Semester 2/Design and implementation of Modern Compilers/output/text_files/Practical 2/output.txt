@@ -1,0 +1,11 @@
+PS C:\Temp> python llg_to_rlg.py
+Enter rule count>       4
+Enter right linear grammer1>    S->aS
+Enter right linear grammer2>    S->b
+Enter right linear grammer3>    A->bB
+Enter right linear grammer4>    B->a
+[['S', 'aS'], ['S', 'b'], ['A', 'bB'], ['B', 'a']]
+Left Linear grammer is:
+ S -> Sa
+ A -> Bb
+PS C:\Temp>

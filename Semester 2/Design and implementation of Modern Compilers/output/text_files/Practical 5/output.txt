@@ -1,0 +1,5 @@
+PS C:\Temp> python postfix.py
+Enter a postfix expression seperated by spaces> 4 5 + 6 -7 - *
+4 5 + 6 -7 - *
+117
+PS C:\Temp>
