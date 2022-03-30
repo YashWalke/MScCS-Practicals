@@ -1,0 +1,12 @@
+PS C:\Temp> python triples.py
+Enter number of productions > 3
+Enter production 1 > x = 2 + 3
+Enter production 2 > y = x - 4
+Enter production 3 > z = x * y
+Address          Operator        Argument1       Argument2
+0                +               2               3
+1                -               0               4
+2                *               0               1
+['x=2+3', 'y=x-4', 'z=x*y']
+['x', 'y', 'z']
+PS C:\Temp> 

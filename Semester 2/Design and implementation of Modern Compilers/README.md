@@ -27,9 +27,24 @@ This repository houses the practicals executed by the students of batch 2021-202
         <td><a href = "output/screenshots/Practical 2">screenshots</a> and <a href = "output/text_files/Practical 2">Text files</a></td>
     </tr>
     <tr>
+        <td>3</td>
+        <td><a href = "src/triples.py">triples.py</a></td>
+        <td><a href = "output/screenshots/Practical 3">screenshots</a> and <a href = "output/text_files/Practical 3">Text files</a></td>
+    </tr>
+    <tr>
         <td>5</td>
         <td><a href = "src/postfix.py">postfix.py</a></td>
         <td><a href = "output/screenshots/Practical 5">screenshots</a> and <a href = "output/text_files/Practical 5">Text files</a></td>
+    </tr>
+    <tr>
+        <td>6</td>
+        <td><a href = "src/3_address.py">3_address.py</a></td>
+        <td><a href = "output/screenshots/Practical 6">screenshots</a> and <a href = "output/text_files/Practical 6">Text files</a></td>
+    </tr>
+    <tr>
+        <td>7</td>
+        <td><a href = "src/dag.py">dag.py</a></td>
+        <td><a href = "output/screenshots/Practical 7">screenshots</a> and <a href = "output/text_files/Practical 7">Text files</a></td>
     </tr>
     <tr>
         <td>8</td>
