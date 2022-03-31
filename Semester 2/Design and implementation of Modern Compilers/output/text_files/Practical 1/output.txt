@@ -1,0 +1,27 @@
+PS C:\Temp> python ndfa.py
+Enter state set>        SAF
+Enter input symbol set> 01
+Enter the initial state>        S
+Enter the final state(s)>       F
+Enter the number of rules you want to add>      3
+Enter rule 1>   S -> 0A
+Enter rule 2>   A -> 1F
+Enter rule 3>   F -> 0S
+
+
+Set of states are >  {'A', 'F', 'S'}
+Input symbols are >  {'0', '1'}
+Transitions are >
+S {'0': 'A'}
+A {'1': 'F'}
+F {'0': 'S'}
+Initial state >  S
+Final states >  {'F'}
+
+
+Transition table is >
+States          0               1
+S               A               -
+A               -               F
+F               S               -
+PS C:\Temp>  

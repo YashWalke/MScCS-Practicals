@@ -1,3 +1,7 @@
+# Install package 'automata-lib'
+# using the following command:
+# pip (or pip3) install automata-lib
+
 from automata.fa.nfa import NFA
 
 class NDFA:
@@ -9,7 +13,7 @@ class NDFA:
         rule_count = int(input("Enter the number of rules you want to add>\t"))
         rules = []
         for counter in range(rule_count):
-            rules.append(input(f"Enter rule {counter + 1}>\t"))
+            rules.append(input(f"Enter rule {counter + 1}>\t").replace(" ", ""))
         rules = self.get_transitions(rules)
         
         self.nfa = NFA(
@@ -23,8 +27,8 @@ class NDFA:
         del state_set, input_symbols, initial_state, final_states, rules
     
     
-    def get_transitions(self, rules : list[str]) -> dict[str, dict[str, str]]:
-        rules = [i.split("-") for i in rules]
+    def get_transitions(self, rules):
+        rules = [i.split("->") for i in rules]
         rules_dict = {}
         
         for rule in rules:
