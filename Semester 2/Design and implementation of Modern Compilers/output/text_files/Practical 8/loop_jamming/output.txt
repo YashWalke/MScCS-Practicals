@@ -1,4 +1,0 @@
-PS C:\Temp> python loop_jamming.py
-Time required to execute loop 1 : 4.450155019760132
-Time required to execute loop 2 : 2.4976305961608887
-PS C:\Temp>

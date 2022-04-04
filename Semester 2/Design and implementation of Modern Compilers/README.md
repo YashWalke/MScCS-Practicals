@@ -28,8 +28,13 @@ This repository houses the practicals executed by the students of batch 2021-202
     </tr>
     <tr>
         <td>3</td>
-        <td><a href = "src/triples.py">triples.py</a></td>
+        <td><a href = "src/dag.py">dag.py</a></td>
         <td><a href = "output/screenshots/Practical 3">screenshots</a> and <a href = "output/text_files/Practical 3">Text files</a></td>
+    </tr>
+    <tr>
+        <td>4</td>
+        <td><a href = "src/triples.py">triples.py</a></td>
+        <td><a href = "output/screenshots/Practical 4">screenshots</a> and <a href = "output/text_files/Practical 4">Text files</a></td>
     </tr>
     <tr>
         <td>5</td>
@@ -43,22 +48,12 @@ This repository houses the practicals executed by the students of batch 2021-202
     </tr>
     <tr>
         <td>7</td>
-        <td><a href = "src/dag.py">dag.py</a></td>
+        <td><a href = "src/loop_jamming.py">loop_jamming.py</a></td>
         <td><a href = "output/screenshots/Practical 7">screenshots</a> and <a href = "output/text_files/Practical 7">Text files</a></td>
     </tr>
     <tr>
         <td>8</td>
-        <td>
-            <ol type = "a">
-                <li><a href = "src/loop_jamming.py">loop_jamming.py</a></li>
-                <li><a href = "src/loop_unrolling.py">loop_unrolling.py</a></li>
-            </ol>
-        </td>
-        <td>
-            <ol type = "a">
-                <li><a href = "output/screenshots/Practical 8/loop_jamming">screenshots</a> and <a href = "output/text_files/Practical 8/loop_jamming">Text files</a></li>
-                <li><a href = "output/screenshots/Practical 8/loop_unrolling">screenshots</a> and <a href = "output/text_files/Practical 8/loop_unrolling">Text files</a></li>
-            </ol>
-        </td>
+        <td><a href = "src/loop_unrolling.py">loop_unrolling.py</a></td>
+        <td><a href = "output/screenshots/Practical 8">screenshots</a> and <a href = "output/text_files/Practical 8">Text files</a></td>
     </tr>
 </table>

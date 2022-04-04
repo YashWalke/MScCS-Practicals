@@ -1,12 +1,4 @@
-PS C:\Temp> python dag.py
-Enter number of three address codes > 3
-Enter production 1 > x = 2 + 3
-Enter production 2 > y = x - 4
-Enter production 3 > z = x * y
-Label    Operator        Left    Right
-x        +               2       3
-y        -               x       4
-z        *               x       y
-['x=2+3', 'y=x-4', 'z=x*y']
-['x', 'y', 'z']
-PS C:\Temp>  
+PS C:\Temp> python loop_jamming.py
+Time required to execute loop 1 : 4.450155019760132
+Time required to execute loop 2 : 2.4976305961608887
+PS C:\Temp>
