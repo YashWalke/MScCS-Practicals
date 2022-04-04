@@ -27,7 +27,7 @@ class NDFA:
         del state_set, input_symbols, initial_state, final_states, rules
     
     
-    def get_transitions(self, rules):
+    def get_transitions(self, rules : list[str]) -> dict[str, dict[str, str]]:
         rules = [i.split("->") for i in rules]
         rules_dict = {}
         
