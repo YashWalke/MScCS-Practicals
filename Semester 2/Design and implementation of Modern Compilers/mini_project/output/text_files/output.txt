@@ -1,0 +1,7 @@
+PS C:\Users\YASH> python C:/Temp/predictive_parser.py
+Non Terminal    +       *       (       )       a       $
+E               None    None    E->TG   None    E->TG   None
+G               G->+TG  None    None    G->@    None    G->@
+T               None    None    T->FU   None    T->FU   None
+U               U->@    U->*FU  None    U->@    None    U->@
+F               None    None    F->(E)  None    F->a    None
