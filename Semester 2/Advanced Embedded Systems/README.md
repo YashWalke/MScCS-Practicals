@@ -55,3 +55,9 @@ This repository houses the practicals executed by the students of batch 2021-202
         <td><a href = "src/Practical 10.ino">Practical 10</a></td>
     </tr>
 </table>
+
+
+
+## <center> Mini Project </center>
+
+The mini project can be found in the [mini_project](./mini_project) subdirectory.

@@ -88,3 +88,9 @@ This repository houses the practicals executed by the students of batch 2021-202
 + The order presented in this repository will **not** match with the index of the journal. This discrepancy arises due to the fact that the practicals were implemented **out of order.**
 + This repository stores practicals based on their **implementation date**.
 + Procedure for performing Practicals 5 through 11 can be found [here](extras/procedures/Orange Practicals.pdf)
+
+
+
+## <center> Mini Project </center>
+
+The mini project can be found in the [mini_project](./mini_project) subdirectory.

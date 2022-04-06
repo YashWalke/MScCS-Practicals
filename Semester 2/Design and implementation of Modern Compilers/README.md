@@ -57,3 +57,9 @@ This repository houses the practicals executed by the students of batch 2021-202
         <td><a href = "output/screenshots/Practical 8">screenshots</a> and <a href = "output/text_files/Practical 8">Text files</a></td>
     </tr>
 </table>
+
+
+
+## <center> Mini Project </center>
+
+The mini project can be found in the [mini_project](./mini_project) subdirectory.
