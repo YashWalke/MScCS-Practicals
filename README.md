@@ -12,52 +12,29 @@ This repository houses the practicals executed by the students of course Masters
 
 ### Semester 1
 
-<table>
-    <tr>
-    	<th> Subject Name </th>
-    	<th> Folder link </th>
-    </tr>
-    <tr>
-    	<td>Analysis of Algorithms and Reasearch in Parallel Computing</td>
-        <td><a href = "./Semester 1/Algorithms">Algorithms</a></td>
-    </tr>
-    <tr>
-    	<td>Fundamentals of Data Science</td>
-        <td><a href = "./Semester 1/Fundamentals of Data Science">Fundamentals of Data Science</a></td>
-    </tr>
-    <tr>
-    	<td>Bioinformatcs</td>
-        <td><a href = "./Semester 1/Bioinformatics">Bioinformatics</a></td>
-    </tr>
-    <tr>
-    	<td>Data Warehousing and Data Mining</td>
-        <td><a href = "./Semester 1/Data Warehousing and Data Mining">Data Warehousing and Data Mining</a></td>
-    </tr>
-</table>
-
+| Subject Name   | Folder link    |
+|--------------- | --------------- |
+| Analysis of Algorithms and Reasearch in Parallel Computing   | [link](./Semester%201/Algorithms/)   |
+| Fundamentals of Data Science   | [link](./Semester%201/Fundamentals%20of%20Data%20Science/)   |
+| Bioinformatics   | [link](./Semester%201/Bioinformatics/)   |
+| Data Warehousing and Data Mining   | [link](./Semester%201/Data%20Warehousing%20and%20Data%20Mining/)   |
 
 
 ### Semester 2
 
-<table>
-    <tr>
-    	<th> Subject Name </th>
-    	<th> Folder link </th>
-    </tr>
-    <tr>
-    	<td>Design and Implementation of Modern Compilers</td>
-        <td><a href = "./Semester 2/Design and implementation of Modern Compilers">Design and Implementation of Modern Compilers</a></td>
-    </tr>
-    <tr>
-    	<td>Advanced Embedded Systems</td>
-        <td><a href = "./Semester 2/Advanced Embedded Systems">Advanced Embedded Systems</a></td>
-    </tr>
-    <tr>
-    	<td>Social Network Analysis</td>
-        <td><a href = "./Semester 2/Social Network Analysis">Social Network Analysis</a></td>
-    </tr>
-    <tr>
-    	<td>Business Intelligence and Big Data Analytics</td>
-        <td><a href = "./Semester 2/Business Intelligence and Big Data Analytics">Business Intelligence and Big Data Analytics</a></td>
-    </tr>
-</table>
+| Subject Name   | Folder link    |
+|--------------- | --------------- |
+| Design and Implementation of Modern Compilers   | [link](./Semester%202/Design%20and%20implementation%20of%20Modern%20Compilers/)   |
+| Advanced Embedded Systems   | [link](./Semester%202/Advanced%20Embedded%20Systems/)   |
+| Social Network Analysis   | [link](./Semester%202/Social%20Network%20Analysis/)   |
+| Business Intelligence and Big Data Analytics   | [link](./Semester%202/Business%20Intelligence%20and%20Big%20Data%20Analytics/)   |
+
+
+### Semester 3
+
+| Subject Name   | Folder link    |
+|--------------- | --------------- |
+| Machine and Deep Learning   | [link](./Semester%203/Machine%20Learning/)   |
+| Cyber Forensics and Laws   | [link](./Semester%203/Cyber%20Forensics%20and%20Laws/)   |
+| Operation Research   | [link](./Semester%203/Operations%20Research/)   |
+| Robotics   | [link](./Semester%203/Robotics/)   |
