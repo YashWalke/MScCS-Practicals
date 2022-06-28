@@ -9,18 +9,13 @@
 This repository houses the practicals executed by the students of batch 2021-2022 of the course Masters of Science(Computer Science) Part II for the subject **"Robotics"** (Semester 3).
 
 ### Practical List
-<table>
-    <tr>
-        <th>Practical No.</th>
-        <th>Practical Content</th>
-        <th>Output(s)</th>
-    </tr>
-    <tr>
-        <td>1</td>
-        <td><a href = "./src/RobotLocomotion.java">Practical 1</a></td>
-        <td>N/A</td>
-    </tr>
-</table>
+
+| Practical No.  | Practical Content  | Output   |
+|-------------- | -------------- | -------------- |
+| 1    | [RobotLocomotion.java](./src/RobotLocomotion.java)     | N/A     |
+| 2    | [RobotGears.java](./src/RobotGears.java)     | N/A     |
+| 3    | [RobotMotor.java](./src/RobotMotor.java)     | N/A     |
+
 
 **<u>Note</u>**:
-+ For practicals based in Java, use the `JGameGrid.jar` found in the [`libs/JGameGrid/lib`](./libs/JGameGrid/lib/) and `robotsim.jar` found in the [`libs/JGameGrid/robotsim/lib`](./libs/JGameGrid/robotsim/).
++ For practicals based in Java, use the `JGameGrid.jar` found in the [`libs/JGameGrid/lib`](./libs/JGameGrid/lib/) directory and `robotsim.jar` found in the [`libs/JGameGrid/robotsim/lib`](./libs/JGameGrid/robotsim/) directory.
