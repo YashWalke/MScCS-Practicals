@@ -12,3 +12,4 @@ This repository houses the practicals executed by the students of batch 2021-202
 | Practical No.  | Source code (.ipynb)   | Source code (.pdf)   |
 |-------------- | -------------- | -------------- |
 | 1    | [Simple Linear Regression](./src/notebooks/SLR.ipynb)     | [Simple Linear Regression](./src/pdfs/SLR.pdf)     |
+| 2    | [Multiple Linear Regression](./src/notebooks/MLR.ipynb)     | [Mutiple Linear Regression](./src/pdfs/MLR.pdf)     |
