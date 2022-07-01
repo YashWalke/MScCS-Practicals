@@ -8,3 +8,4 @@
 | 3    | [RobotGearSquare.java](./src/RobotGearSquare.java)     | N/A     |
 | 4    | [RobotGearCircle.java](./src/RobotGearCircle.java)     | N/A     |
 | 5    | [RobotMotorSquare.java](./src/RobotMotorSquare.java)     | N/A     |
+| 6    | [RobotSensorTrackFollower.java](./src/RobotSensorTrackFollower.java)     | N/A     |
