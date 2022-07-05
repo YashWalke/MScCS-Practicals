@@ -11,4 +11,4 @@ This repository houses the practicals executed by the students of batch 2021-202
 ### Practical List
 | Practical No.  | Content   | Output   |
 |-------------- | -------------- | -------------- |
-| 1    | N/A     | N/A     |
+| 1    | [link](./src/Practical%201/)     | [link](./screenshots/Practical%201/)     |
