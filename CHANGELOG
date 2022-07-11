@@ -1,3 +1,19 @@
+# 2022-07-11
+---
+## Changes
+
+### Additions
++ Add Cyber Forensics and Laws Practicals 5 and 6 with output.
+
+### Deletions
++ None
+
+### Updations
++ Cyber Forensics and Laws `README.md`
++ `CHANGELOG`
+
+
+
 # 2022-07-06
 ---
 ## Changes
@@ -6,7 +22,7 @@
 + Add Cyber Forensics and Laws Practicals 2 through 4 with output.
 
 ### Deletions
-+ .gitignore
++ None
 
 ### Updations
 + Cyber Forensics and Laws `README.md`
