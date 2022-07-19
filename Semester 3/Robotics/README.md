@@ -16,6 +16,7 @@ This repository houses the practicals executed by the students of batch 2021-202
 | 2    | [RobotGears.java](./src/RobotGears.java)     | N/A     |
 | 3    | [RobotMotor.java](./src/RobotMotor.java)     | N/A     |
 | 4    | [RobotSensorLineFollower.java](./src/RobotSensorLineFollower.java)     | N/A     |
+| 5    | [RobotSensorPathFollower.java](./src/RobotSensorPathFollower.java)     | N/A     |
 
 
 **<u>Note</u>**:
