@@ -18,3 +18,5 @@ This repository houses the practicals executed by the students of batch 2021-202
 | 5    | [link](./src/Practical%205/)     | [link](./screenshots/Practical%205/)     |
 | 6    | [link](./src/Practical%206/)     | [link](./screenshots/Practical%206/)     |
 | 7    | [link](./src/Practical%207/)     | [link](./screenshots/Practical%207/)     |
+| 8    | [link](./src/Practical%208/)     | [link](./screenshots/Practical%208/)     |
+| 9    | [link](./src/Practical%209/)     | [link](./screenshots/Practical%209/)     |
