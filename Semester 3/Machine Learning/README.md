@@ -15,3 +15,5 @@ This repository houses the practicals executed by the students of batch 2021-202
 | 2    | [Multiple Linear Regression](./src/notebooks/MLR.ipynb)     | [Mutiple Linear Regression](./src/pdfs/MLR.pdf)     |
 | 3    | [Support Vector Machine](./src/notebooks/SVM.ipynb)     | [Support Vector Machine](./src/pdfs/SVM.pdf)     |
 | 4    | [k-Nearest Neighbors](./src/notebooks/KNN.ipynb)     | [k-Nearest Neighbors](./src/pdfs/KNN.pdf)     |
+| 5    | [Hierarchical Clustering](./src/notebooks/HClust.ipynb)     | [Hierarchical Clustering](./src/pdfs/HClust.pdf)     |
+| 6    | [k-Means Clustering](./src/notebooks/KMeans.ipynb)     | [k-Means Clustering](./src/pdfs/KMeans.pdf)     |
