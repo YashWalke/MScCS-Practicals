@@ -1,3 +1,23 @@
+# 2022-07-26
+---
+## Changes
+
+### Additions
++ Add Operations Research Practicals 5 through 8.
++ Add Machine Learning Practical 7
+
+### Deletions
++ `Operations Research/src/Python/pdfs` with all files.
++ `Machine Learning/src/pdfs` with all files.
+
+### Updations
++ Moving all .ipynb files one directory up.
++ Operations Research `README.md`
++ Machine Learning `README.md`
++ `CHANGELOG`
+
+
+
 # 2022-07-25
 ---
 ## Changes
