@@ -18,4 +18,4 @@ This repository houses the practicals executed by the students of batch 2021-202
 | 5   | [Hierarchical Clustering](./src/HClust.ipynb)   |
 | 6   | [k Means clustering](./src/KMeans.ipynb)   |
 | 7   | [Artificial Neural Network](./src/ANN.ipynb)   |
-| 8   | [Convolutionary Neural Network](#)   |
+| 8   | [Convolutionary Neural Network](./src/CNN.ipynb)   |
