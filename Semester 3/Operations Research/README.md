@@ -19,4 +19,6 @@ This repository houses the practicals executed by the students of batch 2021-202
 | 5    | [Big M method](./src/Python/BigM.ipynb)   | N/A    |
 | 6    | [Resource Allocation Problem](./src/Python/ResourceAllocation.ipynb)   | N/A    |
 | 7    | [Infeasibilty](./src/Python/Infeasibility.ipynb)   | N/A    |
-| 8    | [Dual Simplex Method](./src/R/DualSimplex.R)   | N/A    |
+| 8    | [Dual Simplex Method](./src/R/DualSimplex.R)   | [screenshots](./screenshots/Practical%208/)    |
+| 9    | [Transportation Problem](./src/R/Transportation.R)   | [screenshots](./screenshots/Practical%209/)    |
+| 10   | [Assignment Problem](./src/R/Assignment.R)   | [screenshots](./screenshots/Practical%2010/)    |
