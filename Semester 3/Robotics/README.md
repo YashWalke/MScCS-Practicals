@@ -10,16 +10,21 @@ This repository houses the practicals executed by the students of batch 2021-202
 
 ### Practical List
 
-| Practical No.  | Practical Content  | Output   |
-|-------------- | -------------- | -------------- |
-| 1    | [RobotLocomotion.java](./src/RobotLocomotion.java)     | N/A     |
-| 2    | [RobotGears.java](./src/RobotGears.java)     | N/A     |
-| 3    | [RobotMotor.java](./src/RobotMotor.java)     | N/A     |
-| 4    | [RobotSensorLineFollower.java](./src/RobotSensorLineFollower.java)     | N/A     |
-| 5    | [RobotSensorPathFollower.java](./src/RobotSensorPathFollower.java)     | N/A     |
+| Practical No.  | Source code   |
+|-------------- | -------------- |
+| 1    | [BasicRobot.java](./src/BasicRobot.java) & [GearRobot.java](./src/GearRobot.java)     |
+| 2    | [MotorRobot.java](./src/MotorRobot.java)     |
+| 3    | [RobotSquare.java](./src/RobotSquare.java)     |
+| 4    | [LineFollowerRobot.java](./src/LineFollowerRobot.java)     |
+| 5    | [MotorRobotCircle.java](./src/MotorRobotCircle.java)     |
+| 6    | [PathFollowerRobot.java](./src/PathFollowerRobot.java)     |
+| 7    | [ObstacleFindingRobot.java](./src/ObstacleFindingRobot.java)     |
+
 
 
 **<u>Note</u>**:
-+ For practicals based in Java, use the `JGameGrid.jar` found in the [`libs/JGameGrid/lib`](./libs/JGameGrid/lib/) directory and `robotsim.jar` found in the [`libs/JGameGrid/robotsim/lib`](./libs/JGameGrid/robotsim/) directory.
-+ Add the `sprites` folder found in the [`libs/JGameGrid/robotsim/examples`](./libs/JGameGrid/robotsim/examples/) directory to a location where it can be accessed by the compiled .class files.
-+ Custom backgrounds can be found in the `sprites` folder mentioned above.
++ For practicals based in Java, use the [`JGameGrid.jar`](./libs/JGameGrid.jar) and [`robotsim.jar`](./libs/RobotSim.jar) <abbr title = "Java Archive">JAR</abbr> files.
+
++ Add [this](./sprites/) directory to the root folder of your project.
+
++ Custom backgrounds can be found in the above mentioned folder.
