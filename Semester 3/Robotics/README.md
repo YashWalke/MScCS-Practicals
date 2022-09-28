@@ -19,6 +19,7 @@ This repository houses the practicals executed by the students of batch 2021-202
 | 5    | [MotorRobotCircle.java](./src/MotorRobotCircle.java)     |
 | 6    | [PathFollowerRobot.java](./src/PathFollowerRobot.java)     |
 | 7    | [ObstacleFindingRobot.java](./src/ObstacleFindingRobot.java)     |
+| 8    | [UltrasonicObstacleFinder.java](./src/UltrasonicObstacleFinder.java)     |
 
 
 
